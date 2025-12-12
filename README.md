@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharun Kumar V</h1>
-<h3 align="center">Aspiring Java Backend Developer | DSA Learner | Web Dev Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | DSA Learner | Web Dev Enthusiast</h3>
 
 ---
 
