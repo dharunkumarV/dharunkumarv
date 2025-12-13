@@ -45,7 +45,7 @@
 - 20+ DSA problems solved in Java  
 - Arrays, Strings, Searching, Sorting, Two-Pointers  
 - Beginner–friendly code  
-🔗 *Repository link will be added here after upload*  
+🔗 https://github.com/dharunkumarV/DSA-Java-Practice.git
 
 ---
 
