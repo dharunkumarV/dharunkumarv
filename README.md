@@ -39,7 +39,7 @@
 - Implemented using **Core Java + OOPs**  
 - Features: Create Account, Deposit, Withdraw, Check Balance, Transaction History  
 - Used classes, objects, methods & validation  
-🔗 *Repository link will be added here after you upload*  
+🔗 https://github.com/dharunkumarV/Banking-Management-System.git  
 
 ### 🔹 **DSA Practice in Java**  
 - 20+ DSA problems solved in Java  
