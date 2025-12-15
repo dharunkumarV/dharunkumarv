@@ -43,7 +43,7 @@
 
 ### 🔹 **DSA Practice in Java**  
 - 20+ DSA problems solved in Java  
-- Arrays, Strings, Searching, Sorting, Two-Pointers  
+- Arrays, Strings,Hashtable, , Math 
 - Beginner–friendly code  
 🔗 https://github.com/dharunkumarV/DSA-Java-Practice.git
 
