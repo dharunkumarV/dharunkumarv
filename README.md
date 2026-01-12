@@ -86,7 +86,7 @@ https://leetcode.com/u/Dharunkumarv/
 
 ## 🎯 Current Focus  
 - Mastering Java OOP & Backend  
-- Improving DSA problem solving  
+- Improving DSA problem-solving  
 - Building consistent GitHub activity  
 - Preparing for placements  
 
