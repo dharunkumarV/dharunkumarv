@@ -12,7 +12,6 @@
 - 🎯 Goal: Become a strong Java Backend Developer  
 
 ---
-
 ## 🛠 Skills  
 
 ### **Programming Languages**
