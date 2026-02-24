@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 - 🎓 B.E Computer Science Engineering (2022–2026)  
-- 💻 Passionate about Java, Backend Development & DSA  
+- 💻 Passionate about Java, OOPS, CN & DSA  
 - 📚 Currently learning **Data Structures & Algorithms**  
 - 🌱 Exploring **Spring Boot**, SQL & Web Development  
 - 🔥 Love building simple real–world projects  
